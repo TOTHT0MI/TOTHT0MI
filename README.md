@@ -1,16 +1,14 @@
-### Hi there 👋
+## :star: My Statistics
+<p align="center"><a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=TOTHT0MI&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
+</a></p>
+<p align="center"><a href="#">
+  <img src="https://github-profile-trophy.vercel.app/?username=TOTHT0MI&margin-w=28&margin-h=15&theme=nord" />
+</p></a></p>
+  
 
-<!--
-**TOTHT0MI/TOTHT0MI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--Color for badges later on: 81a1c1 -->
+## 💻 Currently Working On  
+- FrostedBot (closed source)
+- [Icicle](https://github.com/IceyLeagons/Icicle/)
+- Music software (details are secret for now, name TBA)
