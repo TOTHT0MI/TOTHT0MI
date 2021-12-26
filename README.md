@@ -34,8 +34,10 @@ Likes:
     - sci-fi movies
     - thrillers & escape-room/supernatural themed horrors
 
-Learning (dev): OpenGL (LWJGL), C++ (along w. JNI)
+Learning (dev): C++ (along w. JNI), Kotlin
 Learning (irl): Music -> Percussion (along with all necessary school stuff ofc.)
+
+Currently working on: Icicle (https://github.com/IceyLeagons/icicle)
 
 Hobbies: Gaming, Programming, Music Composing/Producing
 Sport:   Badminton
