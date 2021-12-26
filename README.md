@@ -17,7 +17,8 @@ Running Stalker v2.0 (Made by imagination)
 Fetching data...
 
 -----------------[Results for TOTHTOMI]-----------------
-OS: Windows 10 Pro [64-bit]
+OS: Windows 11 Pro [64-bit]
+Type of guy: AMD
 Shell/Terminal: Windows Terminal
 
 Pronouns:   He/Him
