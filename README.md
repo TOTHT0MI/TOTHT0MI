@@ -47,3 +47,6 @@ Soundcloud: https://soundcloud.com/tothtomi001
 Spotify:    https://spoti.fi/2Y41TUu
 Discord:    TOTHTOMI#2432 (212865300171980800)
 ```
+
+If you would like to, feel free to donate (note that reward for the donation is not guaranteed, it's just an appreciation of my work)<br>
+<a href="paypal.me/totht0mi"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/blue.svg" alt="Donate" style="width: 20rem;"></a>
