@@ -26,7 +26,7 @@ Location:   Csongrád-Csanád, Hungary
 
 Positions:  Full Stack
 Frameworks: Spring, React, Svelte, Tailwind CSS
-Languages:  Java, JavaScript, TypeScript, PHP, CSS
+Languages:  Kotlin, Java, JavaScript, TypeScript, PHP, CSS
 
 Likes:
     - retro games
